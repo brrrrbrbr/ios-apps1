@@ -16,14 +16,18 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>online.anero.app</key>
-				<string>com.company.myapp</string>
-				<key>230.1</key>
-				<string>1.0.0</string>
+				<key>bundle-identifier</key>
+				<string>online.anero.app</string>
+				
+				<key>bundle-version</key>
+				<string>230.1</string>
+				
 				<key>kind</key>
 				<string>software</string>
+				
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
+				
 				<key>title</key>
 				<string>Anero</string>
 			</dict>

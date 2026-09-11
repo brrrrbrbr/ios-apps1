@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ru.avito.it</string>
+				<string>ru.avito.app</string>
 				
 				<key>bundle-version</key>
 				<string>200.5</string>
